@@ -1,16 +1,5 @@
-# fourth_app
+# Flutter Calculator
 
-A new Flutter project.
+This is a simple calculator made with the Flutter framework. It seeks to show the basic functionalities of the framework and it's language, Dart.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+The application features a simple caltulator and other features, such as a Drawer that has a Dark Mode option and a More Information modal.
